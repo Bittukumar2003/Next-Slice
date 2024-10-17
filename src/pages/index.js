@@ -28,7 +28,7 @@ export default function Home({ data }) {
   return (
     <>
       <Head>
-        <title>PizzaWizza</title>
+        <title>NextSlice</title>
       </Head>
       <CarouselComponent />
       <div className="container mx-auto  dark:bg-gray-900">
